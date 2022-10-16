@@ -36,3 +36,10 @@ Danny is looking for answers to the following questions:
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 
+## Some Insights
+
+1. Customer A spends the maximum no of dollars at the restaurant, followed by B and C
+2. Customers A and B both have ordered from the restaurants 6 times while C ordered only 3 times
+3. Ramen is the most ordered item in the menu
+4. Ramen is customer A and C's favourite, while B likes curry
+5. Customer A was the first to take the loyalty program, hence can be considered as the most loyal customer.
